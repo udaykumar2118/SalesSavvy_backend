@@ -78,10 +78,13 @@ Before running this application, ensure you have the following installed:
 - **Database Client**: MySQL Workbench or DBeaver
 - **API Testing**: Postman or Insomnia
 
+- <img width="1920" height="1080" alt="Screenshot 2025-10-31 201318" src="https://github.com/user-attachments/assets/2d2e4c40-3e7a-4fa8-8dbb-955cd67411e3" />
+
+
 ## ⚡ Quick Start
 
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/udaykumar2118/SalesSavvy_backend.git
 cd SalesSavvy_backend
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aba3d8bc-3bbf-4519-b523-d6c3a575fd41" />
+
