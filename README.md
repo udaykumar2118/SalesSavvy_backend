@@ -84,3 +84,4 @@ Before running this application, ensure you have the following installed:
 ```bash
 git clone https://github.com/udaykumar2118/SalesSavvy_backend.git
 cd SalesSavvy_backend
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aba3d8bc-3bbf-4519-b523-d6c3a575fd41" />
